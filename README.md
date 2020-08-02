@@ -3,5 +3,5 @@
 Documenting my Data Structure and Algorithm practice codes from [LeetCode](https://leetcode.com/explore/)
 
 ## [August Leetcoding Challenge](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge) (1st August to 31st August):
-   [Day 1 : Detect Captial](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Detect%20Capital)
-   [Day 2 : Design Hashset](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Design%20Hashset)
+   [Day 1 : Detect Captial](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Detect%20Capital) <br>
+   [Day 2 : Design Hashset](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Design%20Hashset) <br>

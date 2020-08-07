@@ -9,3 +9,4 @@ Documenting my Data Structure and Algorithm practice codes from [LeetCode](https
    [Day 4 : Power of 4](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Power%20of%204) <br>
    [Day 5 : Add-Search Words](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Add-Search%20Word) <br>
    [Day 6 : Find Duplicates in Array](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Find%20Duplicates) <br>
+   [Day 7 : Vertical Traversal of Binary Tree](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Vertical%20Traversal) <br>

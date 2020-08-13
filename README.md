@@ -17,6 +17,7 @@ Collapsible tabs redirect to specific code folders.
    [Day 9 : Rotting Oranges](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Rotting%20Oranges) <br>
    [Day 10 : Excel Sheet Column Number](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Excel%20Sheet%20Column%20Number) <br>
    [Day 11 : H Index](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/H%20Index) <br>
+   [Day 12 : Pascal's Triangle II](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Pascal's%20Triangle%20II) <br>
    
 <br>
 </details>

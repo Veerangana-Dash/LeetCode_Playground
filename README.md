@@ -21,6 +21,8 @@ Collapsible tabs redirect to specific code folders.
    [Day 13 : Iterator for Combinations](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Iterator%20for%20Combination) <br>
    [Day 14 : Longest Palindrome](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Longest%20Palindrome) <br>
    [Day 15 : Non Overlapping Intervals](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Non%20Overlapping%20Intervals) <br>
+   [Day 16 : Best Time To Buy And Sell Stock](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Best%20Time%20To%20Buy%20And%20Sell%20Stock%20III) <br>
+   [Day 17 : Distribute Candies To People](https://github.com/Veerangana-Dash/LeetCode_Playground/tree/master/August%20Leetcoding%20Challenge/Distribute%20Candies%20To%20People) <br>
    
 <br>
 </details>
